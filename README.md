@@ -7,16 +7,16 @@
 ## 关于中国的~~互联网~~封闭网
 
 > 此处引用哔哩哔哩UP主[科技老男孩](https://space.bilibili.com/1278118266 "科技老男孩")的视频[中文互联网，正在消亡](https://www.bilibili.com/video/BV1JY4y1v7JS "中文互联网，正在消亡")中的一段话:
->   *在未来的某一天，你可能在中文互联网上找不到任何有用的信息，信息都被各大互联网公司圈在自家的平台之下，铸造所谓的内容层，其中充斥着欺诈垃圾广告，普通人想要获取有用的信息将极度困难*
+> *在未来的某一天，你可能在中文互联网上找不到任何有用的信息，信息都被各大互联网公司圈在自家的平台之下，铸造所谓的内容层，其中充斥着欺诈垃圾广告，普通人想要获取有用的信息将极度困难*
 
 > *......
->   为了获取更多的用户信息，平台不断限制网页端的功能，不让登录就不让看内容，到登录后也不让看内容，只有用手机才能看，原本一个浏览器加网页的解决方式，非要弄一堆app出来，为了建立所谓内容池平台，拒绝搜索引擎的收入，将所有信息整合在自家的app中。*
+> 为了获取更多的用户信息，平台不断限制网页端的功能，不让登录就不让看内容，到登录后也不让看内容，只有用手机才能看，原本一个浏览器加网页的解决方式，非要弄一堆app出来，为了建立所谓内容池平台，拒绝搜索引擎的收入，将所有信息整合在自家的app中。*
 
 ## Android
 
 ### Magisk
 
-GitHub项目地址:[Magisk](github.com/topjohnwu/Magisk)
+GitHub项目地址:[Magisk](https://github.com/topjohnwu/Magisk)
 
 ## Windows
 
@@ -24,9 +24,9 @@ GitHub项目地址:[Magisk](github.com/topjohnwu/Magisk)
 
 Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。
 
-GitHub项目地址:[Microsoft PowerToys](github.com/microsoft/PowerToys)
+GitHub项目地址:[Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 
-Microsoft Store地址:[Get Microsoft PowerToys from the Microsoft Store](apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+Microsoft Store地址:[Get Microsoft PowerToys from the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
 
 ### Watt Toolkit(原Steam++)
 
@@ -54,7 +54,7 @@ GitHub项目地址:[Visual Studio Code](https://github.com/microsoft/vscode)
 
 OBS是一个用于录制和进行网络直播的自由开源软件包，使用C和C++语言编写，提供实时源和设备捕获、场景组成、编码、录制和广播。数据传输主要通过实时消息协议(RTMP)完成，可以发送到任何支持RTMP的软件，包括YouTube、Twitch和Bilibili等流媒体网站。
 
-GitHub项目地址:[OBS Studio](github.com/obsproject/obs-studio)
+GitHub项目地址:[OBS Studio](https://github.com/obsproject/obs-studio)
 
 官网:[OBS Project](https://obsproject.com/)
 
