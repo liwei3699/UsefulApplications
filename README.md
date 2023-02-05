@@ -88,3 +88,15 @@ GitHub项目地址:[Motrix](https://github.com/agalwood/Motrix)
 Dism++是一款Windows系统管理优化工具，它解决了我们安装、维护系统的一大痛点问题——自定义设置和优化。相当于一个“一站式”管理优化工具集。
 
 GitHub项目地址:[Dism Multi language](https://github.com/Chuyu-Team/Dism-Multi-language)
+
+### qBittorrent
+
+qBittorrent是一个跨平台的开源Bit Torrent客户端
+
+GitHub项目地址:[qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
+SourceForge地址:[qBittorrent Download](https://sourceforge.net/projects/qbittorrent/)
+
+官网:[qBittorrent official website](https://www.qbittorrent.org/)
+
+增强版GitHub项目地址:[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
